@@ -1,6 +1,3 @@
-# TeslaFeature Check
-Find available features about any Tesla, using it's VIN!
-
 # Types of self driving
 
 _*Tesla "Autopilot" is only Level 2:*_
